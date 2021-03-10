@@ -1,4 +1,4 @@
-const hesaplama = require("./function.js");
+const hesaplama = require("./hesaplama.js");
 console.log("Toplama = "+hesaplama.toplama(30,20));
 console.log("Cikarma = "+hesaplama.cikarma(30,20));
 console.log("Carpma = "+hesaplama.carpma(30,20));
